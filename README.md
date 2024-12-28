@@ -43,7 +43,7 @@ returnFirstTwoDrivers(['Antonia', 'Nuru', 'Amari', 'Mo'])
   the **last** two drivers in the array:
 
 ```js
-returnLastTwoDrivers(['Antonia', 'Nuru', 'Amari', 'Mo'])
+returnLastTwoDrivers([c)
 // => ['Amari', 'Mo']
 ```
 
